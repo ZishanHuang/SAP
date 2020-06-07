@@ -1,0 +1,7 @@
+{
+  "name": "Heroku Test",
+  "description": "Python flask app deployed to heroku.",
+  "image": "heroku/python",
+  "keywords": ["python", "flask", "postgresql" ],
+  "addons": [ "heroku-postgresql" ]
+}
